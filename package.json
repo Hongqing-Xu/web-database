@@ -1,0 +1,23 @@
+{
+  "name": "web-database",
+  "version": "1.0.0",
+  "description": "表单数据提交",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongqing-Xu/web-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hongqing-Xu/web-database/issues"
+  },
+  "homepage": "https://github.com/Hongqing-Xu/web-database#readme"
+}
